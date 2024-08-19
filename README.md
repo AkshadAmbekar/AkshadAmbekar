@@ -1,5 +1,5 @@
 <img src="Assest/header.png">
-<h1 align="center">Hi There😉</h1>
+<h1 align="center">Welcome To My Profile😉</h1>
 
 🚀 Hey GitHub Enthusiasts ! Here is Akshad From Planet Earth 🌏 How Are You Mate !
 
@@ -23,13 +23,9 @@ Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials.
 </a>
 
 ### Connect With Me 📪
-<a href="https://www.linkedin.com/in/saikrishn-shelar-168787294/">
+<a href=https://www.linkedin.com/in/akshad-ambekar-9721b62a6>
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://twitter.com">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-  
 <a href="https://www.instagram.com">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
