@@ -12,36 +12,94 @@
 Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials. Make Sure you Follow me on Socials So we can Connect and Build a Better Network 🤝💭
 
 <h3>Languages 💡</h3>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kotlin-dark.svg" width="50"></a>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python" />
+      </a>
+      <br>PYTHON
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kotlin-dark.svg" width="50">
+      </a>
+      <br>KOTLIN
+    </td>
+  </tr>
+</table>
 
 ### OS 🖥
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=windows" />
+      </a>
+      <br>Windows
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ubuntu" />
+      </a>
+      <br>Ubuntu
+      <br>
+    </td>
+  </tr>
+</table>
 
 ### Connect With Me 📪
-<a href=https://www.linkedin.com/in/akshad-ambekar-9721b62a6>
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://www.instagram.com">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="mailto:">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="100">
+       <a href=https://www.linkedin.com/in/akshad-ambekar-9721b62a6>
+       <img src="https://skillicons.dev/icons?i=linkedin" />
+       </a>
+       <br>Linkedin
+    </td>
+    <td align="center" width="100">
+       <a href="https://www.instagram.com">
+       <img src="https://skillicons.dev/icons?i=instagram" />
+       </a>
+       <br>Instagram
+    </td>
+    <td align="center" width="100">
+       <a href="mailto:">
+       <img src="https://skillicons.dev/icons?i=gmail" />
+       </a>
+       <br>Gmail
+    </td>
+  </tr>
+</table>
+
 <h2 align ="center">⚡️Stats⚡️</h2>
 <!-- GitHub Stats -->
 <div align=center>
 
 <p align="center">
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=pranavmulay18&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pranavmulay18&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=AkshadAmbekar&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AkshadAmbekar&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
 </p>
   <p align="center">
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pranavmulay18&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%"/> 
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AkshadAmbekar&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%"/> 
 </p>
 
 
