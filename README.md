@@ -36,7 +36,7 @@ Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials.
       <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java" />
       </a>
-      <br>C++
+      <br>JAVA
     </td>
     <td align="center" width="100">
       <a href="#">
