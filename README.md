@@ -5,7 +5,7 @@
 
 ### Currently Working On ⚡️
 - Tweaking This [Readme file 🔎](https://github.com/AkshadAmbekar/AkshadAmbekar.git) For Optimal Engagement
-- Learning C++
+- Learning Java
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My Tech Stack <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 
@@ -29,6 +29,12 @@ Here Are My Few Technical Skills, Libraries I know, Tools I use, and My Socials.
     <td align="center" width="100">
       <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cpp" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="100">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java" />
       </a>
       <br>C++
     </td>
